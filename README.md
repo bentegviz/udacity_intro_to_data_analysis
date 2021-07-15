@@ -1,2 +1,2 @@
-# udacity_intro_to_data_analysis
+# Udacity Intro to Data Analysis
 Udacity.com Intro to Data Analysis
