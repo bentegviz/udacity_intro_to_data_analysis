@@ -1,7 +1,7 @@
-Corp Mail Inserter Report
+Udacity Intro to Data Analysis
 ==============================
 
-Corporate Mailroom Inserter Productivity Report
+Udacity.com Intro to Data Analysis - Case Study 2
 
 Project Organization
 ------------
